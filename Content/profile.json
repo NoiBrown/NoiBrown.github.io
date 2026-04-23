@@ -22,9 +22,9 @@
   "Employment": "Boeing Company",
   "Role": "Electrical Engineer",
   "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "Skills": ["C++", " Python", " Node", " CSS"," HTML"],
   "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Resume": "Noi Brown-resume.pdf"  
 },
 "Project1": {
     "Title": "Interesting Project 1",
