@@ -51,21 +51,21 @@
     "Title": "Interesting Project 4",
     "Desc": "Mckistry Company of Project Four.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": ["P3Detail1.png"]
+    "MainImage": "P4Main.png",
+    "DetailImages": ["P4Detail1.png"]
   },
    "Project5": {
     "Title": "Interesting Project 5",
     "Desc": "Federal Aviation Administration of Project Five.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": ["P3Detail1.png"]
+    "MainImage": "P5Main.png",
+    "DetailImages": ["P5Detail1.png"]
   },
    "Project6": {
     "Title": "Interesting Project 6",
     "Desc": "Rushing Company of Project Six.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": ["P3Detail1.png"]
+    "MainImage": "P6Main.png",
+    "DetailImages": ["P6Detail1.png"]
   },
 }
