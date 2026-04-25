@@ -15,35 +15,35 @@
   "GitHub": "https://github.com/NoiBrown"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I graduated in Electrical Engineering in 2018 and am currently working as an Electrical Engineer at Boeing in the Defense, Space & Security program. I am returning to Seattle Pacific University to pursue a degree in Computer Engineering.<br><br>I have excellent problem solving, handling conflict resolution, and analytical skills, along with strong self-motivation and a solid work ethic.",
   "School": "Seattle Pacific University",
   "Major": "Computer Engineering",
   "Graduation": "June 2028",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "I have a B.S in Electrical Engineering and am currently pursuing a second B.S in Computer Engineering.",
   "Employment": "Seattle Pacific University",
   "Role": "Electrical Engineer at Boeing Company",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "EmploymentText": "I am currently supporting two programs within the Defense, Space & Security division.",
+  "Skills": ["C++", " HTML"],
+  "SkillsText": "I can work on multiple tasks simultaneously while coordinating with internal and external teams.",
   "Resume": "Noi Brown-resume.pdf"  
 },
 "Project1": {
     "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "I research parts, materials, and processes for all electrical equipment and also review drawings for the entire aircraft.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Desc": "I review parts that are active, end-of-life, transferred, or discontinued, and report them in bill of materials systems.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "I design medium-voltage electrical systems, including substations, dry docks, and cranes, for Navy bases.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P3Main.png",
     "DetailImages": ["P3Detail1.png","P3Detail2.png","P3Detail3.png","P3Detail4.png"]
@@ -51,7 +51,7 @@
  
   "Project4": {
     "Title": "Interesting Project 4",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "I am an Electrical Resident Engineer for the Federal Aviation Administration, working across the United States.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P4Main.png",
     "DetailImages": ["P4Detail1.png","P4Detail2.png","P24Detail3.png","P4Detail4.png"]
@@ -59,7 +59,7 @@
   
   "Project5": {
     "Title": "Interesting Project 5",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "I design commercial buildings and solar PV systems for schools and universities.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P5Main.png",
     "DetailImages": ["P5Detail1.png","P5Detail2.png","P5Detail3.png","P5Detail4.png"]
@@ -67,7 +67,7 @@
   
   "Project6": {
     "Title": "Interesting Project 6",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "I provide design and construction administration services for the East Link and Lynnwood Link stations and garages for Sound Transit.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P6Main.png",
     "DetailImages": ["P6Detail1.png","P6Detail2.png","P6Detail3.png","P6Detail4.png"]
