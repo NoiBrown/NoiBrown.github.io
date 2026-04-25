@@ -46,7 +46,7 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
-    "DetailImages": ["P3Detail1.png"]
+    "DetailImages": ["P3Detail1.png","P3Detail2.png","P3Detail3.png","P3Detail4.png"]
   },
  
   "Project4": {
@@ -54,7 +54,7 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P4Main.png",
-    "DetailImages": ["P4Detail1.png"]
+    "DetailImages": ["P4Detail1.png","P4Detail2.png","P24Detail3.png","P4Detail4.png"]
   },
   
   "Project5": {
@@ -62,7 +62,7 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P5Main.png",
-    "DetailImages": ["P5Detail1.png"]
+    "DetailImages": ["P5Detail1.png","P5Detail2.png","P5Detail3.png","P5Detail4.png"]
   },
   
   "Project6": {
@@ -70,6 +70,6 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P6Main.png",
-    "DetailImages": ["P6Detail1.png"]
+    "DetailImages": ["P6Detail1.png","P6Detail2.png","P6Detail3.png","P6Detail4.png"]
   }
 }
