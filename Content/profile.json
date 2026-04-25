@@ -12,7 +12,7 @@
   "Phone": "(206) 307-1222",
   "Portfolio": "https://github.dev/NoiBrown/NoiBrown.github.io",
   "LinkedIn": "https://www.linkedin.com/in/noi-brown/",
-  "GitHub": "https://www.github.com"
+  "GitHub": "https://github.com/NoiBrown"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
@@ -46,7 +46,7 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
-    "DetailImages": []
+    "DetailImages": ["P3Detail1.png"]
   },
  
   "Project4": {
@@ -54,7 +54,7 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P4Main.png",
-    "DetailImages": []
+    "DetailImages": ["P4Detail1.png"]
   },
   
   "Project5": {
@@ -62,7 +62,7 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P5Main.png",
-    "DetailImages": []
+    "DetailImages": ["P5Detail1.png"]
   },
   
   "Project6": {
@@ -70,6 +70,6 @@
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P6Main.png",
-    "DetailImages": []
+    "DetailImages": ["P6Detail1.png"]
   }
 }
